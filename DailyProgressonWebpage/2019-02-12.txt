@@ -1,0 +1,49 @@
+************************************************MORNING*****************************************************
+
+1.I create a logo/brand name for my name
+
+2.a website i really found inspiration in
+http://www.adhamdannaway.com/
+
+he had images of his own art and how he made it into computer graphics which i thought was pretty cool
+
+3.Im going to add all the flyers ive made for events through adobe spark post
+
+4. include a resume, or add a htlm page for my resume
+
+5.created a code pen profile where i can upload all the projects we do on intelege and see other peoples projects
+
+6.i want to add a white flower on my webpage inmeaning to my name and part of my logo
+
+
+
+contact me
+git hub
+linkdin
+email
+instagram
+codepen
+
+change all my social medias to my brand name and also spend some time in modifying them .
+
+
+knowledge:
+source control
+css
+python
+javascript
+html
+operwating systems ubuntu / linux
+
+
+*******************************************************AFTERNOON*******************************************************
+1. I created 5 pages
+    o. About Me
+    o. Portfolio
+    o. Skills and Resume
+    0. Manga and Manhwa Book Club
+    o. Contact Me
+
+2. Ive added buttons and links ot each
+3. downloaded all my contact me icon logos and placed them on my contact page
+4. On each page i have added headers and main sections that i will have in each page

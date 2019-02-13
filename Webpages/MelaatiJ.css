@@ -1,0 +1,44 @@
+#title
+{
+    text-align: center;
+    font-size: 100px;
+    color: indianred;
+    border:3px solid darkslateblue;
+    padding:3%;
+
+}
+
+h2
+{
+    text-align: center;
+    color: indianred;
+    font-weight: bold;
+    font-family: Chilanka;
+    font-size: 50px;
+
+}
+
+#pageTitle
+{
+    text-align: center;
+    font-style: italic;
+    font-size: 80px;
+    color: darkslateblue;
+}
+
+#resume
+{
+    text-align: center;
+}
+
+#youtubeLogo
+{
+    text-align: center;
+}
+
+#tabs
+{
+    text-align: center;
+    background:darkslateblue;
+    color: indianred;
+}
