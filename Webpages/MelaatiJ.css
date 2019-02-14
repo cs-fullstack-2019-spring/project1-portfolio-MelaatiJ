@@ -13,7 +13,7 @@ h2
     text-align: center;
     color: indianred;
     font-weight: bold;
-    font-family: Chilanka;
+    /*font-family: Chilanka;*/
     font-size: 50px;
 
 }
@@ -37,7 +37,7 @@ h2
 }
 
 #tabs
-{   backgrou
+{
     text-align: center;
     background:darkslateblue;
     color: indianred;
@@ -82,7 +82,13 @@ input[type=submit]:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50%
 
+}
+
+#homepage {
+    background-image: url("../picturesOfMe/birthdayPic.JPG");
 }

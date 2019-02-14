@@ -9,3 +9,25 @@ organized my css and added ids so i can make a grid
 i added a picture of myself that resembles leadership
 i have added some project fiters on my project page
 ive added some text about myself in the about me page
+
+
+
+todo-
+home page to index page
+add grids asap!!!!!!!
+take off hobbie page
+
+
+
+
+
+
+
+
+*********************************************************AFTERNOON***********************************************************
+
+
+i added a new page on my webapge called my coding adventures where i will put all my coding adventure stories in
+i will also add my manga and manhwa in my about me page
+added an image to my home page
+will be adding grids to it later tonight and fix the navigation bar
