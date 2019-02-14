@@ -1,0 +1,11 @@
+
+
+
+
+*********************************************************Morning************************************************************
+
+Making a contact page for anyone who wants to contact me.
+organized my css and added ids so i can make a grid
+i added a picture of myself that resembles leadership
+i have added some project fiters on my project page
+ive added some text about myself in the about me page

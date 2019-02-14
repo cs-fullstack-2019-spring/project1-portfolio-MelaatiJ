@@ -12,28 +12,58 @@
 </head>
 <body>
 <Header>
+    <div>
     <!--My header with title ID-->
-    <h1 id="title">Melaati Jayah</h1>
-    <a href="homePage.html"><button id ="nav0"><h4>Home Page</h4></button></a>
-    <a href="AboutMe.html"><button id="nav1"><h4>About Me</h4></button></a>
-    <a href="Portfolio.html"><button id="nav2"><h4>Portfolio</h4></button></a>
-    <a href="Skills&Resume.html"><button id="nav3"><h4>Skills & Resume</h4></button></a>
-    <a href="Manga&ManhwaBookClub.html"><button id="nav4"><h4>Manga& Manhwa Book Club</h4></button></a>
-    <a href="ContactMe.html"><button id="nav5"><h4>Contact Me</h4></button></a>
-    <h2 id="pageTitle">Contact Me</h2>
+        <h1 id="title">Melaati Jayah</h1>
+    </div>
+    <div id="tabs">
+        <a href="homePage.html"><button id ="nav0"><h4>Home Page</h4></button></a>
+        <a href="AboutMe.html"><button id="nav1"><h4>About Me</h4></button></a>
+        <a href="Portfolio.html"><button id="nav2"><h4>Portfolio</h4></button></a>
+        <a href="Skills&Resume.html"><button id="nav3"><h4>Skills & Resume</h4></button></a>
+        <a href="Manga&ManhwaBookClub.html"><button id="nav4"><h4>Manga& Manhwa Book Club</h4></button></a>
+        <a href="ContactMe.html"><button id="nav5"><h4>Contact Me</h4></button></a>
+    </div>
+    <div>
+        <h2 id="pageTitle">Contact Me</h2>
+    </div>
 </Header>
-<!--GitHub-->
-<a href=""><img alt="Logo for Github" src="../logos/githublogo.png" height="100" width="100"/></a>
-<!--linkedin-->
-<a href=""><img alt="Logo for linkedin" src="../logos/linkedinlogo.png" height="100" width="100"/></a>
-<!--Email-->
-<a href=""><img alt="Logo for email" src="../logos/email.png" height="100" width="100"/></a>
-<!--CodePen-->
-<a href=""><img alt="Logo for CodePen" src="../logos/codepenlogo.png" height="100" width="100"/></a>
-<!--instagram-->
-<a href=""><img alt="Logo for instgram" src="../logos/instgramlogo.png" height="100" width="100"/></a>
-<!--twitter-->
-<a href=""><img alt="Logo for twitter" src="../logos/twitterbird.png" height="100" width="100"/></a>
+
+<div class="contactinput">
+  <form action="action_page.php">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="company">Company</label>
+      <input type="text" id="company" name="company" placeholder="company">
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
+
+<div id="logos">
+    <!--GitHub-->
+    <a href=""><img alt="Logo for Github" src="../logos/githublogo.png" height="100" width="100"/></a>
+    <!--linkedin-->
+    <a href=""><img alt="Logo for linkedin" src="../logos/linkedinlogo.png" height="100" width="100"/></a>
+    <!--Email-->
+    <a href=""><img alt="Logo for email" src="../logos/email.png" height="100" width="100"/></a>
+    <!--CodePen-->
+    <a href=""><img alt="Logo for CodePen" src="../logos/codepenlogo.png" height="100" width="100"/></a>
+    <!--instagram-->
+    <a href=""><img alt="Logo for instgram" src="../logos/instgramlogo.png" height="100" width="100"/></a>
+    <!--twitter-->
+    <a href=""><img alt="Logo for twitter" src="../logos/twitterbird.png" height="100" width="100"/></a>
+
+</div>
 
 
 
