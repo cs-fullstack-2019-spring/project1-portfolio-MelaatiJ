@@ -1,3 +1,20 @@
+.container
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.test
+{
+    display: grid;
+    grid-template-columns: 16.68% 16.68% 16.68% 16.68% 16.68% 16.68% ;
+
+}
+.myEdit
+{
+    border: thick solid indianred;
+    margin: 10px;
+    padding: 10px;
+}
 #title
 {
     text-align: center;
@@ -5,7 +22,8 @@
     color: indianred;
     border:3px solid darkslateblue;
     padding:3%;
-
+    grid-column: 1/13;
+    grid-row: 1;
 }
 
 h2
@@ -91,4 +109,32 @@ input[type=submit]:hover {
 
 #homepage {
     background-image: url("../picturesOfMe/birthdayPic.JPG");
+
+}
+/*img*/
+/*{*/
+    /*opacity: 0.5;*/
+    /*filter: alpha(opacity=50);*/
+/*}*/
+
+#logos
+{
+    text-align: center;
+}
+
+#youtubeVideos
+{
+    text-align: center;
+}
+
+/*#nav0*/
+/*{*/
+    /*grid-column: 3;*/
+    /*grid-row: 2;*/
+/*}*/
+
+#writtenVlogs
+{
+    border: 3px solid black;
+    text-align: center;
 }

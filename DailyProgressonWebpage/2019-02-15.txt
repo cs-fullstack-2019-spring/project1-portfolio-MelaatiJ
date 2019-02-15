@@ -1,0 +1,22 @@
+
+
+
+*****************************************************MORNING*************************************************************
+
+I added links to my contact me images
+found the color scheme i want , i was inspired by a toyota prius. it was metallic blue and black
+i added logos for my skills
+i also added my two written vlogs on my webpage
+
+
+
+
+ todo
+ make sure all my pictures have labels
+ ask how to connect my email logo to my email
+ take the email logo off
+ no css grid
+ added a google form
+ fix the coding adventures two page
+ home page
+
