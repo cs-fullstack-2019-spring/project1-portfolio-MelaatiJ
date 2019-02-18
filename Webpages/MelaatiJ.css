@@ -1,9 +1,11 @@
+
+/*manga and manhwa section*/
 .manhwa
 {
     display: grid;
    grid-template-columns: 49% 49%;
 }
-
+/*bdpa picture and summary*/
 .BDPA
 {
     text-align: center;
@@ -12,7 +14,7 @@
 
 }
 
-
+/* about me paragraph and summary*/
 #aboutMe
 {
     display: grid;
@@ -20,7 +22,7 @@
     font-size: 27px;
 
 }
-
+/*graphic templates*/
 .graphicDesignFlyers
 {
     display: grid;
@@ -32,6 +34,7 @@
     display: grid;
     grid-template-columns: 50% 50%;
 }
+/*mycodingadventures videos*/
 .test
 {
     display: grid;
@@ -44,6 +47,8 @@
     margin: 10px;
     padding: 10px;
 }
+
+/*titles for all the same oages*/
 #title
 {
     text-align: center;
@@ -54,7 +59,7 @@
     grid-column: 1/13;
     grid-row: 1;
 }
-
+/*all my titles with h2 tags*/
 h2
 {
     text-align: center;
@@ -72,6 +77,7 @@ h2
     font-size: 80px;
     color: darkslateblue;
 }
+/*center my resume*/
 
 #resume
 {
