@@ -1,3 +1,17 @@
+#aboutMe
+{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    font-size: 27px;
+
+}
+
+.graphicDesignFlyers
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
 .container
 {
     display: grid;
@@ -133,8 +147,8 @@ input[type=submit]:hover {
     /*grid-row: 2;*/
 /*}*/
 
-#writtenVlogs
-{
-    border: 3px solid black;
-    text-align: center;
-}
+/*#writtenVlogs*/
+/*{*/
+    /*border: 3px solid black;*/
+    /*text-align: center;*/
+/*}*/
