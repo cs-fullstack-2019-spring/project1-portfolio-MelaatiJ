@@ -1,13 +1,22 @@
+.manhwa
+{
+    display: grid;
+   grid-template-columns: 49% 49%;
+}
+
 .BDPA
 {
     text-align: center;
+    display: grid;
+    grid-template-rows: 49% 49%;
+
 }
 
 
 #aboutMe
 {
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 50% 50%;
     font-size: 27px;
 
 }
