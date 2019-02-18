@@ -12,7 +12,7 @@
     grid-template-columns: 25% 25% 25% 25%;
 }
 
-.container
+.containers
 {
     display: grid;
     grid-template-columns: 50% 50%;
